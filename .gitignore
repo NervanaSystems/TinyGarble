@@ -4,6 +4,7 @@
 .nfs*
 .project
 .settings
+.vscode
 *.alib
 *.cl
 *.dat
