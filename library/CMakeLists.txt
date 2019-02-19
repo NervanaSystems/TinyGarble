@@ -1,0 +1,9 @@
+add_library(tiny_garble
+  ../crypto/BN.cpp
+  ../crypto/OT.cpp
+  ../crypto/OT_extension.cpp
+  ../scd/scd.cpp
+  ../util/util.cpp
+  ../tcpip/tcpip.cpp
+  ../util/log.cpp
+)
