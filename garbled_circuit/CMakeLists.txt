@@ -1,7 +1,7 @@
 add_library (Garbled_Circuit_Garbled_Circuit_Util OBJECT
   "garbled_circuit_util.cpp")
 add_library (Garbled_Circuit_Garbled_Circuit_High_Mem OBJECT
-  "garbled_circuit_high_mem.cpp")  
+  "garbled_circuit_high_mem.cpp")
 add_library (Garbled_Circuit_Garbled_Circuit_Low_Mem OBJECT
   "garbled_circuit_low_mem.cpp")
 add_library (Garbled_Circuit_Garbled_Circuit OBJECT
