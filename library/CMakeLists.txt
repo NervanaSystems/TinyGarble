@@ -1,10 +1,11 @@
-add_library(tiny_garble
+add_library(tiny_garble SHARED
   ../crypto/BN.cpp
   ../crypto/OT.cpp
   ../crypto/OT_extension.cpp
+  ../garbled_circuit/garbled_circuit_util.cpp
   ../scd/scd.cpp
-  ../util/util.cpp
   ../tcpip/tcpip.cpp
+  ../util/util.cpp
   ../util/log.cpp
 )
 
