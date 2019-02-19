@@ -3,7 +3,7 @@ add_library(tiny_garble SHARED
   ../crypto/OT.cpp
   ../crypto/OT_extension.cpp
   ../garbled_circuit/garbled_circuit.cpp
-  ../garbled_circuit/garbled_ciruit_util.cpp
+  ../garbled_circuit/garbled_circuit_util.cpp
   ../garbled_circuit/garbled_circuit_high_mem.cpp
   ../garbled_circuit/garbled_circuit_low_mem.cpp
   ../scd/scd.cpp
