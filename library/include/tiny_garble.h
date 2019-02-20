@@ -7,6 +7,8 @@
 #include "crypto/block.h"
 #include "garbled_circuit/garbled_circuit.h"
 #include "garbled_circuit/garbled_circuit_util.h"
+#include "scd/evaluator.h"
+#include "scd/scd.h"
 #include "tcpip/tcpip.h"
 #include "util/common.h"
 #include "util/log.h"
