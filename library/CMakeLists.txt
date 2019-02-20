@@ -7,6 +7,7 @@ add_library(tiny_garble SHARED
   ../garbled_circuit/garbled_circuit_high_mem.cpp
   ../garbled_circuit/garbled_circuit_low_mem.cpp
   ../scd/scd.cpp
+  ../scd/scd_evaluator.cpp
   ../tcpip/tcpip.cpp
   ../util/util.cpp
   ../util/log.cpp
