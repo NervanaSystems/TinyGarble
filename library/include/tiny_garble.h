@@ -8,6 +8,7 @@
 #include "garbled_circuit/garbled_circuit.h"
 #include "garbled_circuit/garbled_circuit_testing.h"
 #include "garbled_circuit/garbled_circuit_util.h"
+#include "scd/parse_netlist.h"
 #include "scd/scd.h"
 #include "scd/scd_evaluator.h"
 #include "scd/scheduling.h"
