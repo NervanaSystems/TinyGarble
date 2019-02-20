@@ -9,6 +9,8 @@
 #include "garbled_circuit/garbled_circuit_util.h"
 #include "scd/scd.h"
 #include "scd/scd_evaluator.h"
+#include "scd/scheduling.h"
+#include "scd/v_2_scd.h"
 #include "tcpip/tcpip.h"
 #include "util/common.h"
 #include "util/log.h"
